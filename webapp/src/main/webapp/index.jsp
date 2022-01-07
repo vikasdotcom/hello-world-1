@@ -12,7 +12,8 @@
     <br> 
     <button type="submit">Login</button>
     <label>
-      <input type="checkbox" checked="checked" name="remember"> Remember me
+	    <br>
+	    <input type="checkbox" checked="checked" name="remember"> Remember me
     </label>
   </div>
 
